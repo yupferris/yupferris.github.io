@@ -1,12 +1,33 @@
 * {
     background-color: #080808;
+    font-family: 'courier new';
+    font-size: 10px;
+    color: #212121;
 }
 
-.appContainer {
+a {
+    text-decoration: none;
+    background-color: transparent;
+    color: #a0a0a0;
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: #a0a0a0;
+    color: #212121;
+}
+
+.mainContainer {
     position: absolute;
     width: 854px;
     height: 480px;
     top: 50%;
     left: 50%;
     margin: -240px 0 0 -427px;
+    text-align: center;
+}
+
+.linkBar {
+    position: relative;
+    margin: 4px;
 }
