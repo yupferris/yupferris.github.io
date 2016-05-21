@@ -12190,7 +12190,7 @@ var _yupferris$elmsteroids$Main$view = function (model) {
 										A2(
 										_evancz$elm_graphics$Collage$moveY,
 										-30,
-										A2(_yupferris$elmsteroids$DefaultText$defaultText, 16, 'github.com/yupferris // 2016')),
+										A2(_yupferris$elmsteroids$DefaultText$defaultText, 16, 'ferris // 2016')),
 										A2(
 										_evancz$elm_graphics$Collage$moveY,
 										-50,
